@@ -1,4 +1,3 @@
-// pages/index.js
 import Layout from '../components/Layout';
 import PostList from '../components/PostList';
 import SEO from '../components/SEO';

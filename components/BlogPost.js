@@ -1,4 +1,3 @@
-// components/BlogPost.js
 import { useState } from 'react';
 import ReadMoreButton from './ReadMoreButton';
 

@@ -1,4 +1,3 @@
-// components/__tests__/Footer.test.js
 import { render, screen } from '@testing-library/react';
 import Footer from '../Footer';
 

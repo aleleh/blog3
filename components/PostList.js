@@ -1,4 +1,3 @@
-// components/PostList.js
 import { useEffect, useState } from 'react';
 import BlogPost from './BlogPost';
 

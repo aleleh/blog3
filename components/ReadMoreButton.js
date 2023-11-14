@@ -1,4 +1,3 @@
-// components/ReadMoreButton.js
 function ReadMoreButton({ onClick, isFullPostVisible }) {
     return (
       <button
